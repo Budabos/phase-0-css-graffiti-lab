@@ -1,1 +1,26 @@
 /* write your override styles here */
+/* Hide graffiti tag with class "tag-1" */
+div.tag-1 {
+    display: none;
+  }
+  
+  /* Hide graffiti tag with class "tag-2" */
+  div.tag-2 {
+    display: none;
+  }
+  
+  /* Hide graffiti tag with class "tag-3" */
+  div.tag-3 {
+    display: none;
+  }
+  
+  /* Hide graffiti tag with class "tag-4" */
+  div.tag-4 {
+    display: none;
+  }
+  
+  /* Hide graffiti tag with class "tag-5" */
+  div.tag-5 {
+    display: none;
+  }
+  
